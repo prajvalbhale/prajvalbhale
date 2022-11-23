@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate for Job in **Full Stack Java Development**
 
-- 🤝 Connect Me on [Linkedin](https://www.linkedin.com/in/prajwalbhale/)
 
 - 📝 I regularly write articles on Linkedin [https://www.linkedin.com/in/prajwalbhale/](https://www.linkedin.com/in/prajwalbhale/)
 
