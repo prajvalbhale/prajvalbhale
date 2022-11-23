@@ -21,6 +21,9 @@
 <p align="left">
 <a href="https://twitter.com/mrprajwal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrprajwal007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajwalbhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwalbhale" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/prajval-bhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prajval-bhale" height="30" width="40" /></a>
+<a href="https://kaggle.com/prajvalbhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prajvalbhale" height="30" width="40" /></a>
+<a href="https://instagram.com/prajwalll______007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwalll______007" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/prajwalbhale007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prajwalbhale007" height="30" width="40" /></a>
 </p>
 
