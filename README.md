@@ -2,18 +2,11 @@
 <h3 align="center">Full Stack Java Developer from India</h3>
 
 - 🔭 I’m worked on 6 **Project's**
-
 - 🌱 I Have Profession in **Java 8, Spring Boot, Micro Services, MySQL**
-
 - 👯 I’m looking to collaborate for Job in **Full Stack Java Development**
-
-
 - 📝 I regularly write articles on Linkedin [https://www.linkedin.com/in/prajwalbhale/](https://www.linkedin.com/in/prajwalbhale/)
-
 - 💬 You can Ask me about **Java, AWS, Spring Boot, Micro Services, MySQL, Hibernate, DSA, Javascript, Angular**
-
 - 📫 How to reach me on Mail **prajwalbhale007@gmail.com**
-
 - 📄 Know about my experiences [https://github.com/prajvalbhale/Prajval-Bhale-Resume/blob/main/prajval%20bhale%20resume.pdf](https://github.com/prajvalbhale/Prajval-Bhale-Resume/blob/main/prajval%20bhale%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
